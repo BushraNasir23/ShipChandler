@@ -1507,7 +1507,7 @@
 	
 	#logo img {
 		display: block;
-		height: 50px;
+		height: 90px;
 		width: auto;
 		max-width:none;
 		-webkit-transition: opacity 0.2s ease-in-out 0s;
@@ -2393,7 +2393,7 @@
 	
 	.socials-wrap .socials {
 		
-		width: 114%;
+		width: 100%;
 		text-align: right;
 	}
 	
